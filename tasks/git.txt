@@ -1,0 +1,6 @@
+git status
+git add .
+git commit -m"loop control status"
+git config user.name yarramsetti suparj
+git config user.email
+git push -u rp master
